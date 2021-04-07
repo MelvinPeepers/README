@@ -20,7 +20,7 @@ Melvin Peepers’s User Manual - Communicating with me
 
 - Let me know when I make mistakes, or if I’m otherwise not doing what I should be doing. Generally, if I’m not doing something that’s expected, it’s because I don’t know, or I misunderstood the expectation. 
 - I like details written down or documented in case I forget or lose focus; this allows me to refer back and get on task.
-- I make a lot of list or checklist so I don’t miss important details.
+- I make a lot of lists or checklists so I don’t miss important details.
 
 ## What are your pet peeves?
 
